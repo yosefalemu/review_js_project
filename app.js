@@ -34,7 +34,7 @@ const reviews = [
     {
         id: 5,
         name: "yosef alemu",
-        job: "developwer",
+        job: "developer",
         img: "https://downloader.la/temp/[Downloader.la]-63fe4b048ff4d.jpg",
         text:
         "Showing gratitude to your boss through a handwritten note or even an email is the best way to show appreciation. An elegantly worded thank you note can make anyone's day. Even your boss's",
